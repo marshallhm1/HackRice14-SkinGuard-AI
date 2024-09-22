@@ -8,7 +8,7 @@ SkinGuard AI is our submission for HackRice14.
 <img src="https://github.com/user-attachments/assets/b7dc4e91-02ff-45d7-9337-c2634106c6d6" alt="Image Upload" width="242" height="520">
 <img src="https://github.com/user-attachments/assets/5467f9c1-086c-4f43-92a2-0343ed7a9afd" alt="Analysis Results" width="242" height="520">
 <img src="https://github.com/user-attachments/assets/6df040e1-2ca3-4b03-9b7f-f39adce6650e" alt="Prevention and Support" width="242" height="520">
-
+<img src="https://github.com/user-attachments/assets/3ca02712-8d03-49a5-a18f-f7f701f5cf8e" alt="Model Results" width="298" height="184">
 
 
 ## Inspiration
