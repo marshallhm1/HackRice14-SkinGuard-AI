@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict/>
+    </array>
+    <key>NSCameraUsageDescription</key>
+    <string>We need access to your camera to take photos for your reports.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>We need access to your photo library to select images for your reports.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need your location to find dermatologists near you.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>We need your location to find dermatologists near you, even when the app is in the background.</string>
+</dict>
+</plist>
