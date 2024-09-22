@@ -3,11 +3,12 @@ Hello 👋
 SkinGuard AI is our submission for HackRice14.
 
 <img src="https://github.com/user-attachments/assets/a6f7e989-b8dd-4e15-98a6-6f3e258cc2de" alt="Home Page" width="242" height="520">
-<img src="https://https://github.com/user-attachments/assets/c31ad869-0d7c-42b1-8d2c-f43a5b4f36c4" alt="Nearby Dermatologists" width="242" height="520">
+<img src="https://github.com/user-attachments/assets/22c6f66c-b378-4017-bba5-568df1ae6b1e" alt="Nearby Dermatologists" width="242" height="520">
 <img src="https://github.com/user-attachments/assets/5c6808b5-6e75-4c75-8d2b-3b61a8c305fa" alt="Reports Page" width="242" height="520">
 <img src="https://github.com/user-attachments/assets/b7dc4e91-02ff-45d7-9337-c2634106c6d6" alt="Image Upload" width="242" height="520">
 <img src="https://github.com/user-attachments/assets/5467f9c1-086c-4f43-92a2-0343ed7a9afd" alt="Analysis Results" width="242" height="520">
 <img src="https://github.com/user-attachments/assets/6df040e1-2ca3-4b03-9b7f-f39adce6650e" alt="Prevention and Support" width="242" height="520">
+
 
 
 ## Inspiration
